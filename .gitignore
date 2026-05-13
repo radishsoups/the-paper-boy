@@ -1,1 +1,37 @@
 node_modules
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+dist/
+build/
+*.egg-info/
+.Python
+venv/
+env/
+ENV/
+
+# Environment variables
+.env.local
+.env.*.local
+
+# Node.js
+package-lock.json
+npm-debug.log*
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+.cache/

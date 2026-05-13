@@ -1,6 +1,6 @@
-# Daily Tech News Agent
+# the paper boy
 
-An AI-powered news summarization system that automatically fetches tech news articles, summarizes key insights using Google's Gemini model, and delivers daily digests via email.
+An AI-powered news summarization system that automatically fetches tech news articles, summarizes key insights using Google's Gemini model, and delivers daily digests right to your email inbox.
 
 ## Features
 
