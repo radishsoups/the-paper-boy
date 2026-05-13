@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/radishsoups/the-paper-boy/main/workflows/images/icon.png" width="90" />
+</p>
+
 # the paper boy
 
 An AI-powered news summarization system that automatically fetches tech news articles, summarizes key insights using Google's Gemini model, and delivers daily digests right to your email inbox.
